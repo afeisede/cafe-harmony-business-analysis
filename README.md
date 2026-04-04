@@ -37,7 +37,7 @@ To generate actionable business insights from Café Harmony’s data and support
 
 ---
 
-## Business Impact
+## 💼 Business Impact
 
 This project shows how raw business data can be transformed into practical insights that support performance monitoring and strategic planning.
 
@@ -57,8 +57,9 @@ cafe-harmony-business-analysis/
 ├── screenshots/
 ├── docs/
 └── README.md
+```
+---
 
-
-## Author
+## 👤 Author
 
 Hamzat Afe Isede
