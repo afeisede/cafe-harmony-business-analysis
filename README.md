@@ -1,12 +1,13 @@
 # Café Harmony Business Analysis
 
 ## 📌 Overview
-This project analyzes the business performance of Café Harmony using sales, customer, and operational data to generate actionable insights.
+This project analyzes Café Harmony’s business performance using sales and operational data to uncover trends, product performance, and business insights.
 
 ---
 
 ## 🎯 Objective
-To identify key trends in sales, customer behavior, product performance, and operational efficiency in order to support data-driven business decisions.
+To generate actionable business insights from Café Harmony’s data and support decision-making related to sales performance, operations, and customer-facing strategy.
+
 
 ---
 
@@ -21,18 +22,24 @@ To identify key trends in sales, customer behavior, product performance, and ope
 ---
 
 ## 🛠️ Tools Used
-- Excel (Data Cleaning & Analysis)
-- Power BI / Visualization (if applicable)
-- Python (optional)
+- Excel 
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 
 ---
 
 ## 📈 Key Insights
-- Identified top-performing products driving revenue
-- Highlighted peak sales periods and trends
-- Revealed customer behavior patterns
-- Identified inefficiencies in stock management
-- Provided actionable business recommendations
+- Monthly sales aggregation provided a clearer trend view than daily-level plotting
+- Some products contributed more significantly to total sales
+- Business patterns identified through the analysis can support operational improvement
+
+---
+
+## Business Impact
+
+This project shows how raw business data can be transformed into practical insights that support performance monitoring and strategic planning.
 
 ---
 
@@ -42,7 +49,7 @@ To identify key trends in sales, customer behavior, product performance, and ope
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structure 
 ```text
 cafe-harmony-business-analysis/
 ├── data/
@@ -50,3 +57,8 @@ cafe-harmony-business-analysis/
 ├── screenshots/
 ├── docs/
 └── README.md
+
+
+## Author
+
+Hamzat Afe Isede
